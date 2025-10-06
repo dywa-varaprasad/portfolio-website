@@ -40,10 +40,11 @@ I focus on simplicity, speed, and design — turning visions into clean, functio
 
 ### 📫 Let’s Connect
 💻 [My Portfolio Website](#)  
-📧 yourname@example.com  
-🌍 [LinkedIn](#) | [Instagram](#)
+📧 battudvp@gmail.com  
+🌍 [LinkedIn](#) | [in](#)
 
 ---
 
 ⭐ **Thanks for visiting my GitHub!**  
 If you like my work, don’t forget to star a few repositories 🌟
+
