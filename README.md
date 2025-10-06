@@ -44,7 +44,13 @@ I focus on simplicity, speed, and design — turning visions into clean, functio
 🌍 [LinkedIn](#) | [in](#)
 
 ---
-
 ⭐ **Thanks for visiting my GitHub!**  
 If you like my work, don’t forget to star a few repositories 🌟
+
+
+[capture_20251007012527697.bmp](https://github.com/user-attachments/files/22730096/capture_20251007012527697.bmp)
+
+
+
+
 
