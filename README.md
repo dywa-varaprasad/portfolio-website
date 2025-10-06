@@ -1,4 +1,6 @@
 # 👋 Welcome to My Portfolio  
+## https://devdvp.netlify.app/
+
 
 Welcome! This space is where creativity meets code — a collection of my web projects, experiments, and ideas brought to life with modern technologies.
 
@@ -39,9 +41,9 @@ I focus on simplicity, speed, and design — turning visions into clean, functio
 ---
 
 ### 📫 Let’s Connect
-💻 [My Portfolio Website](#)  
-📧 battudvp@gmail.com  
-🌍 [LinkedIn](#) | [in](#)
+💻https://devdvp.netlify.app  
+📧 battudvp@gmail.com 
+🌍 [LinkedIn](#) | [in]
 
 ---
 ⭐ **Thanks for visiting my GitHub!**  
@@ -49,6 +51,7 @@ If you like my work, don’t forget to star a few repositories 🌟
 
 
 [capture_20251007012527697.bmp](https://github.com/user-attachments/files/22730096/capture_20251007012527697.bmp)
+
 
 
 
